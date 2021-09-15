@@ -1,4 +1,4 @@
-alert("Testing Command...");
-
-console.log("Testing Console Command...Let's do");
+alert("Hello...");
+console.log("Statement 1");
+console.log("Statement 2");
 
